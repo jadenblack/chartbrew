@@ -88,7 +88,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/chartbrew](https://github.com/jadenblack/chartbrew)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|141<br/>Tools used|12/14/23 <br/>Report generated|
+|143<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -452,9 +452,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (100)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (102)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (100)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (102)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -476,6 +476,7 @@ Full tech stack [here](/techstack.md)
 |[body-parser](https://www.npmjs.com/body-parser)|v1.19.0|11/25/22|Razvan Ilin |MIT|N/A|
 |[camelcase](https://www.npmjs.com/camelcase)|v5.3.1|07/10/21|Razvan Ilin |MIT|N/A|
 |[case-sensitive-paths-webpack-plugin](https://www.npmjs.com/case-sensitive-paths-webpack-plugin)|v2.3.0|01/12/22|Razvan Ilin |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|08/30/19|Razvan Ilin |MIT|N/A|
 |[compare-versions](https://www.npmjs.com/compare-versions)|v3.6.0|12/07/23|Razvan Ilin |MIT|N/A|
 |[connected-react-router](https://www.npmjs.com/connected-react-router)|v6.9.3|06/21/23|Razvan Ilin |MIT|N/A|
 |[cookie-parser](https://www.npmjs.com/cookie-parser)|v1.4.6|11/25/22|Razvan Ilin |MIT|N/A|
@@ -505,6 +506,7 @@ Full tech stack [here](/techstack.md)
 |[jest-resolve](https://www.npmjs.com/jest-resolve)|v26.6.2|03/26/22|Razvan Ilin |MIT|N/A|
 |[jest-watch-typeahead](https://www.npmjs.com/jest-watch-typeahead)|v0.6.1|07/07/22|Razvan Ilin |MIT|N/A|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v9.0.0|08/30/19|Razvan Ilin |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.4|07/07/22|Razvan Ilin |MIT|N/A|
 |[method-override](https://www.npmjs.com/method-override)|v3.0.0|10/30/19|Razvan Ilin |MIT|N/A|
 |[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v0.11.3|06/21/23|Razvan Ilin |MIT|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.29.4|07/03/22|Razvan Ilin |MIT|N/A|
